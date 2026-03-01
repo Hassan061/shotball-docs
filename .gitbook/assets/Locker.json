@@ -1,0 +1,1720 @@
+[
+	{
+		"Name": "av-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"16A71E314706D3DB9694779CE59A0875\", \"Default\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"4B49166B4CA1CC29CB41D38A7A30BC7E\", \"The symbol of Shotball\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/Avatar_Deffault_a.Avatar_Deffault_a'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_avatar.icon_avatar'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"901BCEC449E6E3F28EE418B9B42D3325\", \"Blossom\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"06B0627F469145CB537D1AB12F3C03C7\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/blossom_avatar.blossom_avatar'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_avatar_blossom.icon_avatar_blossom'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"303AA3EF400E14F8F4E66F9C7929B387\", \"Old School\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"16ED190C4C3816E7F32E7982106962EE\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Icons/avatar.avatar'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_avatar_oldschl.icon_avatar_oldschl'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"DF7B0BF24CAC0D484360218853FC5570\", \"The Legend\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"99D653DD4EA36B8D76687EA1315C1BB0\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/ikan_avatar.ikan_avatar'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_avatar_ikan.icon_avatar_ikan'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"F8C1712C493E3D0CFCF8DAA9089848F5\", \"Biohazard\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"0A39CD3B406CF33D6AFEA483212A9254\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/Acidic_avatar.Acidic_avatar'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_avatar_acidic.icon_avatar_acidic'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3339AA9144D0141D4557B48327B08E24\", \"Founding Day Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/foundigDay_avatar.foundigDay_avatar'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_avatar_foundingday.icon_avatar_foundingday'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"835B42B941FE42C9DC05429401C59798\", \"Bronze Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ba.ba'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ba.ba'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-7",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EC0EF0FE4179A04A4CF5D2B87DF2BFDF\", \"Silver Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/sa.sa'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/sa.sa'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-8",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"466508BA40CBF79F94AE7A9C50778C96\", \"Gold Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ga.ga'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ga.ga'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-9",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"4267443C489CED4558DFDF80541D5AB9\", \"Diamond Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/da.da'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/da.da'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-10",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"9A2D92854970F10AC6EB83866EC23019\", \"Platinum Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/pa.pa'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/pa.pa'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "av-11",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"avatark\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"816D25F14750FF872AEA45ADA8DBBD8F\", \"Master Avatar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07116C2A4061A2B32B14D9A5449F22FC\", \"Use Avatars to decorate your Profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ma.ma'",
+		"Locker Category": "Avatar",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/ma.ma'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1AE0E5274D7B279E22BD39B17A379430\", \"Default Ball\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"F76F7225491012F1F95E23B9349BE91A\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_deffault.img_ball_deffault'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_Ball.SM_Ball",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"14CB7BBB401A0B8D0570CF8243D9F5B7\", \"Speed Lines Orange\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1531884F48CEFA15E865BA9E68D2A117\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_speedlinesOrng.img_ball_speedlinesOrng'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallOrange_.SM_BallOrange_",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"8429D9B147E693693C1496AF55F1F915\", \"Speed Lines Blue\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7FD71F784B6FBFDA7D4C9692CD0C7A87\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_speedlinesBlue.img_ball_speedlinesBlue'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallBlue1.SM_BallBlue1",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"00B5C4A742C9D7AA7A3C7EAECA458A66\", \"Championship Ball\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"368A08A84E4702EEEF7FC78308FC8484\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Temp/TEMP_BallOrange.TEMP_BallOrange'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallOrange_.SM_BallOrange_",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"24BDFEF74342B6E3E100E7B2E349DBFE\", \"Iconic Purple\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"0A50C1D04ADCD5F23EE1F6AEC19FEE3D\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_iconpurp.img_ball_iconpurp'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_Ball_Purple.SM_Ball_Purple",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"D8E7BA44470045B480B9A790AF53AF3C\", \"Iconic Red\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"132D3F754801B925FA2B25894F377149\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_iconred.img_ball_iconred'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallRed.SM_BallRed",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"BD56541B42B73F7E56A321B608AB8A4E\", \"Beta White\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"903D946244AE94211C94BE87A960ADA6\", \"A Special skin only obtained by playing the Open Beta\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_betaw.img_ball_betaw'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_Ballbeta.SM_Ballbeta",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-7",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"20E1D28A49C91E6D16F67E89B47CA9C9\", \"Spots Blue\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"34F9D6B74CDBDDA799F1F88AAAC79C9A\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_betablue.img_ball_betablue'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallbetaBlue.SM_BallbetaBlue",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-8",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7193DDED40436C67E180B99D7173F233\", \"Spots Purple\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"807B0EDD499A7EAB17CD2CA6F9134348\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_betapurp.img_ball_betapurp'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 800,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Ball/MainBall/SM_BallbetaPurp.SM_BallbetaPurp",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bs-9",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"ballskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7F49601646CFD6261009D0A6E2C683A7\", \"Founding Day Ball\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1F202C2B472383395371B7BC97531C1A\", \"It doesn\\'t like it when you hit it\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ball_safday.img_ball_safday'",
+		"Locker Category": "BallSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 1000,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Ball/MainBall/BM_Founding.BM_Founding",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6950FE9A4EED4E6676E381A4B7EC7645\", \"Default Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/Banner_Deffault_a.Banner_Deffault_a'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_banner.icon_banner'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"95EDBDDD4880F6936AD863A84E01AB7E\", \"Blossom\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"2358EB724CDF8B4439C98A935F346E67\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/blossom_banner.blossom_banner'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_banner_blossom.icon_banner_blossom'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EDE2C0CB4262F052A75D46A1B2D8266D\", \"Old School\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"20B165BF425E7734AB2A59AB6A505A94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/Oldschl_banner.Oldschl_banner'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_banner_oldschl.icon_banner_oldschl'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"031B2C7645D72CD4C2541DB28BE0EB83\", \"The Legend\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C20520B24A0382AB7AEFCAAC3C293AB3\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/ikan_banner.ikan_banner'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_banner_ikan.icon_banner_ikan'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"96E8757D40B5E72B9E9C5CAAFA74A4AE\", \"Biohazard\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"B2838BDC4F3C159A116E858B162D9535\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/Acidic_banner.Acidic_banner'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_banner_acidic.icon_banner_acidic'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"8BE64B1D499BC594F8E269B4F50DDEF7\", \"Founding Day Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"D347419F411CE8EE4422DF98F364382C\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/BannerAvatar/FoundingDAy_banner.FoundingDAy_banner'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/icon_banner_foundingday.icon_banner_foundingday'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3DBC9A5042681B30B8AB829381FD53DF\", \"Bronze Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/bb.bb'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/bb.bb'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-7",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1B5AAEFB4EF5CE784480CCA9A7312195\", \"Silver Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/sb.sb'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/sb.sb'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-8",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"2F801F004337D3C5934CA4B98F6AC922\", \"Gold Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/gb.gb'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/gb.gb'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-9",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"4244D4E546789451DA7960BDFA51D0EA\", \"Diamond Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/db.db'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/db.db'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-10",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"889C97F54F070CC2C2D991B985F3BAFE\", \"Platinum Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/pb.pb'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/pb.pb'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bn-11",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"bannerk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3F433DF64E5184E6633BD587027FB998\", \"Master Banner\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EE8D90074BA01B69BD885BA0251B4F94\", \"Use banners to decorate your profile\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/mb.mb'",
+		"Locker Category": "Banner",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/Ranked/mb.mb'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-random-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7D944927469023D88B35ED9A5AE3DDDC\", \"Default\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6D8751F74859A58E17EC3A8C642DDF00\", \"Default skin\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/UIBeta/Locker/icon_random.icon_random'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-remove",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotewheelk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"07A1D713468AD2E0EACDBC8F13C1007D\", \"Remove\")",
+		"Item Description": "",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/UIBeta/Locker/icon_remove.icon_remove'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-0",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"D7E1BF0E45A26EE629D6A997AF05F7F3\", \"Acidic Hugh\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1B5A12E541A9F693F52D0E8BCD4FDDDB\", \"Dangerous to the touch\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_hugh_acidic.img_hugh_acidic'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 200,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Hugh/Acidic_Hugh_CR02.Acidic_Hugh_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"9F5DC64F4887002C57F753A7C7B5576C\", \"Acidic Linda\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"8ABDEBF74DF47B8E30EE0FBDDBA58E5A\", \"Dangerous to the touch\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_linda_acidic.img_linda_acidic'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 200,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Linda/Acidic_Linda_CR02.Acidic_Linda_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"D10995EE434C1C3CF1AE81AABBD3639E\", \"Acidic Yani\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"42C89BF7422E22936BA62BA4D4102A02\", \"Dangerous to the touch\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_yani_acidic.img_yani_acidic'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 200,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Yani/Acidic_Yani_CR02.Acidic_Yani_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EB2CB6954838BD722D167FAFF074257A\", \"Acidic Nala\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"49565CD54E437FAC07D54F94E5D1D0FA\", \"Dangerous to the touch\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_nala_acidic.img_nala_acidic'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 200,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Nala/Acidic_Nala_CR02.Acidic_Nala_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"78FA9B524AF543F64CEAFF92566487AB\", \"Old timer Mag\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"56F08677467E1ED2F70270B4B86B2E27\", \"Bringing back the good old days, one step at a time.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_oldtimer_mag.img_oldtimer_mag'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Mag/OldTimer/CapMag_OldTimer_CR01.CapMag_OldTimer_CR01",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7D67AB2E4BFFE7A42976B689E15610A1\", \"Blossom Bubble\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"117021264587996308DCDE8995DCC497\", \"Rise, bloom, and leave a trail of petals behind.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_blossom_bubble.img_blossom_bubble'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Bubble_V4/Blossom/Bubble_Blossom_CR01.Bubble_Blossom_CR01",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"02CD044D4BC3DFD4A9FEE4A854697535\", \"Ikan Purple\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"B29934F24BAC617DF7B2D4AD59D5F9A8\", \"The icon himself, in his prime\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ikan_purp.img_ikan_purp'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Legendary",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Ikon/IKAN_Purp_CR02.IKAN_Purp_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "cs-7",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"characterskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6BB294D9451DA5F80226859FF681EC8D\", \"Ikan Red\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3EFC5A174A3FA344360CDFACDBEDD1D2\", \"The icon himself, in his prime\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_ikan_red.img_ikan_red'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Legendary",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Characters/Ikon/IKAN_CR02.IKAN_CR02",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "c-0",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"freecoinsk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"28187C9D4349D05CF8362E9770D848A2\", \"750 Champ Tokens\")",
+		"Item Description": "NSLOCTEXT(\"DT_LockerItemsInfo [AF7217F508F4A681622F36553480BA2A]\", \"c-0_Item Description\", \"Use Champ tokens to unlock new classes and abilities\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_coin_free.img_coin_free'",
+		"Locker Category": "Currency",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": true,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "c-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"premiumcoinsk\")",
+		"SubTitle": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"shotbucksk\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"8C64DEF547161D1C09ECAE8F864881F0\", \"You can use Shotbucks to purchase premium items\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/UIBeta/Coins/icon_shotbucks_3d.icon_shotbucks_3d'",
+		"Locker Category": "Currency",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": true,
+		"Item Rarity": "Legendary",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/UIBeta/Coins/icon_shotbucks_3d.icon_shotbucks_3d'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-e-0",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotek\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C873E7D542A80EAE888544B0AF51C06A\", \"Mix\\'em Up\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"E19EC7BF456A86DCF23828B62C134375\", \"Make them MAD\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_emote_mixemup.img_emote_mixemup'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Emote",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Animations/Emotes/Mix_em_up_Montage.Mix_em_up_Montage",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-e-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotek\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"8485D6934C4C561B69EF078947B9C801\", \"I got my eye on you\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"D03C44294D3F0BF157CA80BB41A8307E\", \"Let them know who\\'s the boss!\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_emote_gmeoy.img_emote_gmeoy'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Emote",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 800,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Animations/Emotes/Eyes_on_you_Montage.Eyes_on_you_Montage",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-e-2-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotek\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3B64EEA049AAF7E3142A9E9217619E6B\", \"Default Celebration\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"51701B824177C7168A3CA0A561BA3D1D\", \"Celebration!\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_emote_mvp.img_emote_mvp'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Emote",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Animations/Default_celebration_Montage1.Default_celebration_Montage1",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-e-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotek\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"60D4A98C4E77E54BBF7552B83DC315F5\", \"MVP\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"51701B824177C7168A3CA0A561BA3D1D\", \"Celebration!\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_emote_mvp.img_emote_mvp'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Emote",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Animations/MVP_Montage.MVP_Montage",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-e-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"emotek\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"A5A17E8A4E443C0225D22AB4073D96FF\", \"Wave\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"51701B824177C7168A3CA0A561BA3D1D\", \"Celebration!\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_emote_mvp.img_emote_mvp'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Emote",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Animations/Emotes/Wave_Montage.Wave_Montage",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-0",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"ew-sp-0_SubTitle\", \"EZ\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"A73E8E5E4B2D58BB0DF201A45716ACD4\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-0.ew-sp-0'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"ew-sp-1_SubTitle\", \"GG\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"4E1D48AC4B0FDC834DE1CD8150EC904D\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-1.ew-sp-1'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"ew-sp-3_SubTitle\", \"Here!\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"B2546A444217559815C6EA975C5C7BAE\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-3.ew-sp-3'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"ew-sp-2_SubTitle\", \"HAHA\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"26F2675742639703F8A0FEA6CAFDC614\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-2.ew-sp-2'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"ew-sp-4_SubTitle\", \"What a Legend!\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C38AD5194507794BBFB1EAB2A3EB4AF2\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-4.ew-sp-4'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 200,
+			"bBoolean": false
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"F23CFD82452C28AAA3FE828318EEB3DC\", \"Nice Shot!\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1154C2E241E7BCC189E5819A5E84F0D1\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-5.ew-sp-5'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-st-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"0A809467422859C4A70DF7BE4D3089FE\", \"All LUV Me!\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EC490BA4438EAE19BDEB0AAD5361A4DC\", \"Use stickers to tell everyone what you think\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-st-7.ew-st-7'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-0",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"FE122C7D433F797F3BF052A8EDB4AFED\", \"Bored...\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6D33182B489940FCE70F20ADDB1AA95A\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-7.ew-sp-7'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7206301C4FCF620E7FBB3685616C0C6D\", \"Anytime now...\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"5C96EE9A4741D532E23986B8EAD6A5F1\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-6.ew-sp-6'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"0E3DDC384B1DBD7BC823F89C1FF8EF90\", \"Wave\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"228AC82343D8C2C016DDDCA3420027B6\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/CurrentProject/UI/Sprays/Texture_FalconWAve.Texture_FalconWAve'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"BAF455B24609309854FDA593F8F5E591\", \"Shout\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EEC4372F4C1703E9204ACC92EAF3480A\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/CurrentProject/UI/Sprays/Texture_FalconKlee.Texture_FalconKlee'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"game_data [AF7217F508F4A681622F36553480BA2A]\", \"E81D527E4E80FE9BA6015EB935666A0F\", \"Smile\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"A1AB83BE41E11412794A289A4D315905\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/CurrentProject/UI/Sprays/Texture_MagStar.Texture_MagStar'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sprayk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"AFC1F69F4AFA4374BDB4A0B7C9C31023\", \"Let\\'s Gooo!!\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C72227C84A208DBA8AC0279ECF6FD806\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-st-6.ew-st-6'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Spray",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 750,
+			"bBoolean": false
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ew-sp-6",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"sticker\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"47FC84F74B1E6F601432EC8110EB21CE\", \"Founding Day Sticker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C72227C84A208DBA8AC0279ECF6FD806\", \"Use sprays to put your touch on the field\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/Sprays/ew-sp-8.ew-sp-8'",
+		"Locker Category": "EmoteWheel",
+		"Emote Wheel Category": "Sticker",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 750,
+			"bBoolean": false
+		},
+		"Object": "None",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ge-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"goaleffectk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"FD1D80C04658C498E9F467A606452B2C\", \"Default Goal Effect\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"BC54ABA040EE0410CB1B85B30D361EC6\", \"Default Goal effect.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/goal_vfx_deffault.goal_vfx_deffault'",
+		"Locker Category": "GoalEffect",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/VFXs/GoalVFXs/Goal_explosion.Goal_explosion",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/goal_vfx_deffault.goal_vfx_deffault'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ge-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"goaleffectk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"53DD708840B4D787DFDB3A8B551413F5\", \"Goal Shine\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"046C9F6D4AE946252540FC9BB420B350\", \"Shine bright like a star\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/goal_vfx_shine.goal_vfx_shine'",
+		"Locker Category": "GoalEffect",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Ar4bi/Goal_VFX/VFX/Goal_Shine.Goal_Shine",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/goal_vfx_shine.goal_vfx_shine'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ge-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"goaleffectk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EA2FF31B450F0BEAEE230580CAF2E277\", \"Lightshow\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"ACBB86F44801BD1CF23ACBB5A85F1CD4\", \"Crown your goal with Pretty Colors\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vfx_lightshow.img_vfx_lightshow'",
+		"Locker Category": "GoalEffect",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Ar4bi/Goal_VFX/VFX/Goal_Cyber.Goal_Cyber",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/goal_vfx_cyper.goal_vfx_cyper'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ge-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"goaleffectk\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"9EC68C914FE0D259537541B9AF4B5192\", \"Founding Day Goal\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"ACBB86F44801BD1CF23ACBB5A85F1CD4\", \"Crown your goal with Pretty Colors\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vfx_foundday.img_vfx_foundday'",
+		"Locker Category": "GoalEffect",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 1000,
+			"bBoolean": false
+		},
+		"Object": "/Game/Ar4bi/Saudi_Goal/Vfx_Saudi/Saudi_Goal.Saudi_Goal",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vfx_foundday.img_vfx_foundday'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"F8FC2054415A0F4A1EF875AEA4FD75F1\", \"Default Loading Screen\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"AF14FB3345DEA98D09179F85349C46AC\", \"The chaos of sports\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_deffaultArt.loadscrn_deffaultArt'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_default.icon_loadscrn_default'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6F53D5074B6FD44C9C85E4A076EA2503\", \"Blossom\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"F836A526498AD2FCD197048B4097DFC6\", \"Decorate your loading screen\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_blossom.loadscrn_blossom'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_blossom.icon_loadscrn_blossom'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"683133494BCF395689BAE996B52898C8\", \"Showdown\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"09D511DB49309BA3BEF6ABA3F76516A7\", \"Decorate your loading screen\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_showdown.loadscrn_showdown'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_showdown.icon_loadscrn_showdown'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"DAB605EB44159F84C840D686886C83ED\", \"Shotball Family\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"A4E2125F4984B2EC9204F6B0782B8604\", \"Decorate your loading screen\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_family.loadscrn_family'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_family.icon_loadscrn_family'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1B7AC340444BF804318FE9AF532850E6\", \"The Legend\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"10FF5EA744F5A372C73AFCBFE1F6CC9D\", \"Decorate your loading screen\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_thelegend.loadscrn_thelegend'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_ikan.icon_loadscrn_ikan'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ls-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"loadingscreen\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"B2BB346D4F4163B3CD777284F02FB3A9\", \"Founding Day\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"10FF5EA744F5A372C73AFCBFE1F6CC9D\", \"Decorate your loading screen\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/loadscrn_foundingday.loadscrn_foundingday'",
+		"Locker Category": "LoadingScreen",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "None",
+		"Icon": "/Script/Engine.Texture2D'/Game/Asset/Shotpass/icon_loadscrn_foundingday.icon_loadscrn_foundingday'",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-v-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"34636916408F7A88831E6B907CF966FB\", \"Default Vapor\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"5E50A49A4956F5C2A87821B73A723165\", \"Default Vapor skin\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vapor_deffault.img_vapor_deffault'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/VAPOR/Models/SM_W_Vapor.SM_W_Vapor",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"06DAE4B6483FD2E7EC20D2AF3AF03169\", \"Default Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3C249CF241D2DEEE4CCCCD936D648610\", \"Default Haymaker Skin\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_deffault.img_haymaker_deffault'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker.SM_W_Haymaker",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-q-0-d",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"A7CFFF4247C95F754708E7BAB7EDF559\", \"Default Qsar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"09E994624FBDBBCFDCC658B1564ACDD2\", \"Default Qsar Skin\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_qsar_deffault.img_qsar_deffault'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Common",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/QSAR/Models/SM_W_Qsar.SM_W_Qsar",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"FD034E7C4877A52AA76CE7BCBF0D70FB\", \"Blossom Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7A99634D49FBEA85D582BDAA15530CF3\", \"Rise, bloom, and leave a trail of petals behind.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_blossom.img_haymaker_blossom'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker_Blossom.SM_W_Haymaker_Blossom",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-v-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"FC0B1849467206E740128E92783D7612\", \"Blossom Vapor\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"7AC146B44EA33CABD89FD284F55F505D\", \"Rise, bloom, and leave a trail of petals behind.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vapor_blossom.img_vapor_blossom'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/VAPOR/Models/SM_W_Vapor_Blossom.SM_W_Vapor_Blossom",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-q-1",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"6F02BDE847E894B7466BA58FF30885B9\", \"Blossom Qsar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"929509B04D7FADFC33476D8C28C2255A\", \"Rise, bloom, and leave a trail of petals behind.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_qsar_blossom.img_qsar_blossom'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/QSAR/Models/SM_W_Qsar_Blossom.SM_W_Qsar_Blossom",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-2",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"E5CE03B84909BC8A1E9F01AF406C3518\", \"Old School Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"1422905E4FF88C45A218CF824D610F1C\", \"Bringing back the good old days, one step at a time.\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_oldschl.img_haymaker_oldschl'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Legendary",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/oldschl_haymaker.oldschl_haymaker",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"54696DE0412950C8292416B51549BE90\", \"Racer Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"9A43C8BA474360A9C16400BFC1F44BAE\", \"Hot enough to burn your fingerprints away\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_racer.img_haymaker_racer'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 800,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker_Racer.SM_W_Haymaker_Racer",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-v-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"9608402F4F4D302C867B72908841FB00\", \"Racer Vapor\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"57410B064A1F43387260149D056FE3EF\", \"Hot enough to burn your fingerprints away\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_vapor_racer.img_vapor_racer'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 800,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Weapons/VAPOR/Models/SM_W_Vapor_Racer.SM_W_Vapor_Racer",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-q-3",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"333AE2AE446F89F8E1583C98AB68102E\", \"Racer Qsar\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"EAF45AC94035F6870D2A398DBFD7EEF6\", \"Hot enough to burn your fingerprints away\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_qsar_racer.img_qsar_racer'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 800,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Weapons/QSAR/Models/SM_W_Qsar_Racer.SM_W_Qsar_Racer",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-4",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"2AC6978048B274CB187BC384C06A84BE\", \"Acidic Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"647AC6BC416EDB26FD269DB2166DDBC1\", \"Haymaker in new colors, The acidic haymaker is only available to beta testers\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_acidic.img_haymaker_acidic'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker_Acidic.SM_W_Haymaker_Acidic",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "ws-h-5",
+		"Title": "LOCTABLE(\"/Game/CurrentProject/CommonUI/Data/StringTables/StrT_General.StrT_General\", \"weaponskink\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"3DFF753544055760FF522EBE72B7877C\", \"phosphorus Haymaker\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"53C7806F40701484A24068A061FD4B8C\", \"Haymaker in new colors, The phosphorus haymaker is only available to beta testers\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_haymaker_acidicwhite.img_haymaker_acidicwhite'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Rare",
+		"Price_IsFree?":
+		{
+			"Int": 0,
+			"bBoolean": true
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker_WhiteAcidic.SM_W_Haymaker_WhiteAcidic",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bnd-0",
+		"Title": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"C86604A242CF0F91943BC78AB6B452B3\", \"Racer Weapons\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"0C472E70419186AEF8947D99EE62BDE1\", \"Racer Weapons\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"0FF415354904C37DCFA57985F874438E\", \"Hot enough to burn your fingerprints away\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Store/racers_bundle22.racers_bundle22'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 1200,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Weapons/HAYMAKER/SM_W_Haymaker_Racer.SM_W_Haymaker_Racer",
+		"Icon": "None",
+		"Additional Item IDs": [
+			"ws-h-3",
+			"ws-v-3",
+			"ws-q-3"
+		]
+	},
+	{
+		"Name": "shotpass",
+		"Title": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"67191BE042B433EAB66EA4A4A90B944E\", \"Shotpass\")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"FF404B7A4BEEDD8FCC58C08E1D0EB608\", \"Shotpass\")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"4FA3C0934CD6E09434805D87660CABE4\", \"Debut Shotpass allows you to unlock many skins to show off your style\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Locker/ItemsIMG/img_oldtimer_mag.img_oldtimer_mag'",
+		"Locker Category": "CharacterSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Legendary",
+		"Price_IsFree?":
+		{
+			"Int": 900,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Characters/Mag/OldTimer/CapMag_OldTimer_CR01.CapMag_OldTimer_CR01",
+		"Icon": "None",
+		"Additional Item IDs": []
+	},
+	{
+		"Name": "bnd-1",
+		"Title": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"31FB31374BF976C81259A6B6EF0BC179\", \"Founding Day \")",
+		"SubTitle": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"86E0967B4EF41730B6D94EB1C81300AD\", \"Founding Day \")",
+		"Item Description": "NSLOCTEXT(\"[AF7217F508F4A681622F36553480BA2A]\", \"0FF415354904C37DCFA57985F874438E\", \"Hot enough to burn your fingerprints away\")",
+		"Image": "/Script/Engine.Texture2D'/Game/Asset/Store/store-founding-bundle4.store-founding-bundle4'",
+		"Locker Category": "WeaponSkin",
+		"Emote Wheel Category": "Na",
+		"Is Currency?": false,
+		"Item Rarity": "Epic",
+		"Price_IsFree?":
+		{
+			"Int": 1200,
+			"bBoolean": false
+		},
+		"Object": "/Game/Asset/Ball/MainBall/BM_Founding.BM_Founding",
+		"Icon": "None",
+		"Additional Item IDs": [
+			"bs-9",
+			"ge-3",
+			"ew-sp-6"
+		]
+	}
+]
