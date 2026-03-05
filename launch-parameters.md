@@ -17,7 +17,7 @@ All parameters follow the standard Unreal Engine `-key=value` convention and are
 | `-maxplayers=` | `Integer` | `-maxplayers=6` | Overrides the maximum number of players allowed in the session. Must be greater than 0; invalid values are ignored. Blueprint default applies otherwise. |
 | `-gamemodetype=` | `String` | `-gamemodetype=Ranked` | A secondary tag that refines the game mode category (e.g. `Ranked`, `Casual`, `Custom`). Passed to `SetServerGameModeType` in Blueprint. Only applied when the parameter is present. |
 | `-timer=` | `Integer` | `-timer=120` | Sets the "All-In" round timer (in seconds). Must be greater than 0. Passed to `SetServerTimerIsAllIn` in Blueprint. Useful for custom lobby configurations with non-default time limits. |
-| `-IsSimulation=` | `Bool` | `-IsSimulation=true` | Enables **simulation mode** — intended for automated testing or CI pipelines where a real online session is not needed. Skips live network calls where possible. |
+| `-simulation=` | `String` | `-simulation=boot` | Activates a named **simulation mode**. When absent (or empty) the game runs normally with no simulation active. Known types: `boot` — simulates only the startup/boot sequence without a live online session; `session` — simulates a full game session, skipping real online subsystem calls. |
 | `-lan=` | `Bool` | `-lan=true` | Forces the session into **LAN mode**, bypassing the online subsystem (Steam / EOS) and using direct UDP discovery instead. Useful for local playtests, internal events, or office LAN setups. |
 | `-skipshaders=` | `Bool` | `-skipshaders=true` | Tells the game to skip the in-engine shader compilation step on startup. Intended for fast-boot scenarios (e.g. automation, screenshot passes) where shader correctness is not required. |
 | `-replay=` | `Bool` | `-replay=true` | Activates **replay mode**, which puts the game into a state appropriate for recording or playing back a match replay. Passed to `SetReplay` in Blueprint. |
@@ -58,10 +58,10 @@ Bypasses all online subsystem calls so you can run a full session without a Stea
 ### Automated QA / CI Pipeline
 
 ```bash
-ShotBall.exe -IsSimulation=true -skipshaders=true -region=EU -sgm=ShotBall_GameMode
+ShotBall.exe -simulation=session -skipshaders=true -region=EU -sgm=ShotBall_GameMode
 ```
 
-`-IsSimulation` skips live network calls; `-skipshaders` cuts shader compilation time so the game boots faster in headless environments.
+`-simulation=session` skips live network calls; `-skipshaders` cuts shader compilation time so the game boots faster in headless environments.
 
 ### Server Health Check
 
